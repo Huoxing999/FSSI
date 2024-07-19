@@ -12,5 +12,5 @@ Figure 1. Image quality evaluation based on different metrics. In the first row,
 Figure 2. FSSI (the blue line) and SSIM (the green line) results for different interference cases and the comparisons with SSIM. From left to right, the top row results are noise interference, fuzzy inter-ference and lack of interference, the bottom row results are distorted interference, mosaic inter-ference and Gaussian fuzzy interference.  
 <br>
 
-**More details will come soon**
+# More details will come soon
 
